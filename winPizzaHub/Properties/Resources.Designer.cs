@@ -63,9 +63,9 @@ namespace winPizzaHub.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap free_icon_pizza_706918 {
+        internal static System.Drawing.Bitmap free_icon_pizza_706918_1_ {
             get {
-                object obj = ResourceManager.GetObject("free-icon-pizza-706918", resourceCulture);
+                object obj = ResourceManager.GetObject("free-icon-pizza-706918(1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
