@@ -156,7 +156,7 @@ namespace winPizzaHub
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::winPizzaHub.Properties.Resources.template;
+            this.pictureBox3.Image = global::winPizzaHub.Properties.Resources.free_icon_pizza_706918_1_;
             this.pictureBox3.Location = new System.Drawing.Point(6, 28);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(160, 160);
