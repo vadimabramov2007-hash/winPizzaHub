@@ -131,7 +131,7 @@ namespace winPizzaHub
             this.groupBox2.Size = new System.Drawing.Size(666, 200);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "НАЗВАНИЕ ПИЦЦЫ";
+            this.groupBox2.Text = "333ИЦЦЫ";
             // 
             // label5
             // 
@@ -142,17 +142,17 @@ namespace winPizzaHub
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(461, 117);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Текст. Описание пиццы соглано Вашему Варианту. Два, три предложения";
+            this.label5.Text = "Текст. ";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label6.Location = new System.Drawing.Point(529, 25);
+            this.label6.Location = new System.Drawing.Point(592, 25);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(134, 22);
+            this.label6.Size = new System.Drawing.Size(71, 22);
             this.label6.TabIndex = 1;
-            this.label6.Text = "ФИО студента";
+            this.label6.Text = "ФИ333";
             // 
             // pictureBox3
             // 
